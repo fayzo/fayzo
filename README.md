@@ -3,7 +3,8 @@
 My name is shema as Full-stack web developer. I work as Front-end and Back-end development. 
 
 **Reach Me Out:<br>**
-[![Linkedin Badge](https://img.shields.io/badge/-shema-faysal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shema-faysal)  [![Mail Badge](https://img.shields.io/badge/-shemafaysal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shemafaysal@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-shema-faysal?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shema-faysal)  [![Mail Badge](https://img.shields.io/badge/-shemafaysal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shemafaysal@gmail.com)
 
 <!--
 **fayzo/fayzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
